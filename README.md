@@ -1,0 +1,1 @@
+#sign language detectiopn project using YOLOv5 
